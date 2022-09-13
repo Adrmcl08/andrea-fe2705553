@@ -1,1 +1,1 @@
-console.log('Update brnch master')
+console.log('Update branch master')
